@@ -1,0 +1,31 @@
+* {
+	margin:		0;
+	padding:	0;
+}
+body {
+	width:		100vw;
+	height:		100vh;
+}
+#top {
+	background-color:	lime;
+	height:				25%;
+}
+#links {
+	background-color:	blue;
+	float:				left;
+	width:				25%;
+	height:				75%;
+}
+#main {
+	background-color:	lightblue;
+	float:				left;
+	width:				75%;
+	height:				75%;
+}
+#links ul {
+	list-style-type:	none;
+}
+#links li {
+	padding:	25px 0 0 25px;
+	box-sizing:	border-box;
+}
